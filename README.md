@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on improving my web developer skills.
+- 🌱 I’m currently learning Next.js
+- 👯 I’m looking to collaborate on interesting projects.
 <!--
 **KostovPV/KostovPV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
